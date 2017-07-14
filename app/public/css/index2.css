@@ -1,0 +1,305 @@
+.ind-flow {
+            padding-bottom: 26px;
+            border-bottom: 2px solid #dfdfdf;
+        }
+
+        .ind-flow .title {
+            width: 375px;
+            height: 35px;
+            line-height: 34px;
+            padding-left: 19px;
+            padding-right: 19px;
+        }
+
+        .ind-flow .title i {
+            width: 15px;
+            height: 10px;
+            top: 10px;
+        }
+
+        .ind-flow .flow {
+            height: 185px;
+            border-top: 1px solid #dfdfdf;
+        }
+
+        .ind-flow .listw {
+            width: 331px;
+        }
+
+        .ind-flow .a1,
+        .ind-flow .a2,
+        .ind-flow .a3,
+        .ind-flow .a4,
+        .ind-flow .a5,
+        .ind-flow .a6,
+        .ind-flow .a7,
+        .ind-flow .a8 {
+            width: 56px;
+            margin-top: 23px;
+        }
+
+        .ind-flow .a1 i,
+        .ind-flow .a2 i,
+        .ind-flow .a3 i,
+        .ind-flow .a4 i,
+        .ind-flow .a5 i,
+        .ind-flow .a6 i,
+        .ind-flow .a7 i,
+        .ind-flow .a8 i {
+            width: 56px;
+            height: 56px;
+            margin-bottom: 7px;
+        }
+
+        .ind-banner .bd li {
+            height: 130px;
+        }
+
+        .ind-banner {
+            height: 130px;
+        }
+
+        .ind-banner .hd {
+            bottom: 10px;
+        }
+
+        .ind-banner .hd span {
+            width: 11px;
+            height: 11px;
+            border: 1px solid #d2d2d2;
+            margin: 0 4px;
+        }
+
+        .ind-main {
+            width: 331px;
+        }
+
+        .ind-main .listw {
+            margin-top: 13px;
+        }
+
+        .ind-main .listw li {
+            margin-bottom: 31px;
+        }
+
+        .ind-main .listw .imgw {
+            width: 331px;
+            height: 232px;
+        }
+
+        .ind-main .listw .title {
+            height: 27px;
+            line-height: 27px;
+            margin-top: 7px;
+        }
+
+        .ind-main .listw .title i {
+            height: 21px;
+            width: 21px;
+            margin-left: 5px;
+            top: 4px;
+        }
+
+        .ind-main .listw .text {
+            padding: 7px 0;
+        }
+
+        .ind-main .listw .price {
+            height: 42px;
+            line-height: 42px;
+            border: 1px solid #c9c9c9;
+            margin-top: 7px;
+        }
+
+        .ind-main .listw .split {
+            padding: 0 23px;
+        }
+
+        .ind-main1 {
+            width: 331px;
+        }
+
+        .ind-main1 .listw li {
+            width: 161px;
+            margin-top: 16px;
+        }
+
+        .ind-main1 .listw .u-fix {
+            height: 0;
+        }
+
+        .ind-main1 .listw .text {
+            padding-top: 7px;
+        }
+
+        .ind-main1 .u-btn1 {
+            margin-top: 25px;
+        }
+
+        .ind-main1 .u-btn2 {
+            margin-top: 16px;
+        }
+
+        .ind-main2 {
+            width: 331px;
+            margin-top: 25px;
+        }
+
+        .ind-main2 .listw li {
+            margin-top: 25px;
+        }
+
+        .ind-main2 .listw li:first-child {
+            margin-top: 7px;
+        }
+
+        .ind-main2 .listw .pj {
+            margin-top: 5px;
+        }
+
+        .ind-main2 .listw .star1,
+        .ind-main2 .listw .star2 {
+            width: 14px;
+            height: 13px;
+            margin-right: 4px;
+        }
+
+        .ind-main2 .listw .name {
+            padding-right: 19px;
+        }
+
+        .ind-main2 .listw .content {
+            margin-top: 4px;
+        }
+
+        .ind-main2 .listw .info2 {
+            margin-top: 2px;
+        }
+
+        .ind-flow1 figure {
+            padding-top: 13px;
+            padding-bottom: 13px;
+        }
+
+        .ind-flow1 figure img {
+            width: 56px;
+            height: 56px
+        }
+
+        .ind-flow1 figure a figcaption {
+            margin-top: 7px;
+            font-size: 14px;
+        }
+
+        .ind-onsale {
+            margin-top: 12px;
+        }
+
+        .floor-info {
+            margin: 7px 0;
+        }
+
+        .floor-info .flag {
+            height: 15px;
+        }
+
+        .floor-info .flag .hrl,
+        .floor-info .flag .hrr {
+            width: 30px;
+            margin-top: 8px;
+        }
+
+        .floor-info .flag .hrl {
+            margin-right: 13px;
+        }
+
+        .ind-onsale .floor-info i {
+            width: 17px;
+            height: 15px;
+        }
+
+        .floor-info .flag .content {
+            font-size: 14px;
+            margin-right: 11px;
+        }
+
+        .floor-info .dateline {
+            margin-top: 4px;
+            font-size: 10px;
+        }
+
+        .ind-onsale .box a .text {
+            top: 10px;
+            left: 0;
+            font-size: 13px;
+        }
+
+        .ind-onsale .box a .text .small {
+            font-size: 10px;
+        }
+
+        .ind-floors {
+            margin-top: 12px
+        }
+
+        .ind-floors .floor-info {
+            margin-top: 7px;
+            margin-bottom: 7px
+        }
+
+        .ind-floors .floor-info i {
+            width: 18px;
+            height: 18px;
+        }
+
+        .floor-info .flag i {
+            margin: 0;
+            margin-right: 6px
+        }
+
+        .ind-floors .box a {
+            padding-top: 1px;
+            padding-right: 1px;
+        }
+
+        .ind-floors .box a .text {
+            top: 7px;
+            left: 5px;
+            font-size: 13px;
+        }
+
+        .ind-floors .box a .text .small {
+            padding-top: 1px;
+            font-size: 10px;
+        }
+
+        .ind-floor1 .box a:nth-child(1) img,
+        .ind-floor1 .box a:nth-child(2) img,
+        .ind-floor3 .box a:nth-child(1) img,
+        .ind-floor3 .box a:nth-child(2) img {
+            height: 133px;
+        }
+
+        .ind-floor2 {
+            padding-bottom: 5px;
+        }
+
+        .ind-floor3 {
+            padding-bottom: 5px;
+        }
+
+        .ind-floor4 {
+            padding-bottom: 10px;
+        }
+
+        .ind-flow1 {
+            margin-top: 12px;
+        }
+
+        .ind-ask-price {
+            width: 347px;
+            height: 33px;
+            line-height: 33px;
+            margin-top: 15px;
+            font-size: 13px;
+        }

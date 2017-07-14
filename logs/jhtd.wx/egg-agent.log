@@ -1,0 +1,2 @@
+2017-07-14 16:50:05,091 INFO 21940 [egg:logger] init all loggers with options: {"dir":"E:\\mycode\\jhtd\\jhtd.wx\\logs\\jhtd.wx","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jhtd.wx-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-14 16:50:05,155 INFO 21940 [egg-watcher:agent] watcher start success

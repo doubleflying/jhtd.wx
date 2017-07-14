@@ -1,0 +1,14 @@
+2017-07-14 16:50:05,678 INFO 22076 [egg:logger] init all loggers with options: {"dir":"E:\\mycode\\jhtd\\jhtd.wx\\logs\\jhtd.wx","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"jhtd.wx-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-07-14 16:50:05,715 INFO 22076 [egg-schedule]: register schedule egg-schedule:E:\mycode\jhtd\jhtd.wx\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-07-14 16:50:05,715 INFO 22076 [egg-schedule]: register schedule egg-schedule:E:\mycode\jhtd\jhtd.wx\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-07-14 16:50:05,761 INFO 22076 [egg-static] starting static serve /public/ -> E:\mycode\jhtd\jhtd.wx\app\public
+2017-07-14 16:50:05,763 INFO 22076 [egg-security] use csrf middleware
+2017-07-14 16:50:05,764 INFO 22076 [egg-security] use methodnoallow middleware
+2017-07-14 16:50:05,765 INFO 22076 [egg-security] use noopen middleware
+2017-07-14 16:50:05,770 INFO 22076 [egg-security] use nosniff middleware
+2017-07-14 16:50:05,770 INFO 22076 [egg-security] use xssProtection middleware
+2017-07-14 16:50:05,770 INFO 22076 [egg-security] use xframe middleware
+2017-07-14 16:50:05,771 INFO 22076 [egg-security] use dta middleware
+2017-07-14 16:50:05,771 INFO 22076 [egg-security] compose 7 middlewares into one security middleware
+2017-07-14 16:50:05,801 INFO 22076 [egg-watcher:app] watcher start success
+2017-07-14 16:50:17,637 INFO 22076 [egg-view-nunjucks] loading templates from ["E:\\mycode\\jhtd\\jhtd.wx\\app\\view"]

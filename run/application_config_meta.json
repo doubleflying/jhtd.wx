@@ -1,0 +1,243 @@
+{
+  "keys": "E:\\mycode\\jhtd\\jhtd.wx\\config\\config.default.js",
+  "siteFile": {
+    "/favicon.ico": "E:\\mycode\\jhtd\\jhtd.wx\\config\\config.default.js"
+  },
+  "news": {
+    "pageSize": "E:\\mycode\\jhtd\\jhtd.wx\\config\\config.default.js",
+    "serverUrl": "E:\\mycode\\jhtd\\jhtd.wx\\config\\config.default.js"
+  },
+  "view": {
+    "defaultViewEngine": "E:\\mycode\\jhtd\\jhtd.wx\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "E:\\mycode\\jhtd\\jhtd.wx\\config\\config.default.js",
+      ".nj": "E:\\mycode\\jhtd\\jhtd.wx\\config\\config.default.js"
+    },
+    "root": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "start": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "bugs": {
+      "url": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+    },
+    "homepage": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "moment": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "cheerio": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "supertest": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "webstorm-disable-index": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.local.js"
+    }
+  },
+  "httpclient": {
+    "keepAlive": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "freeSocketKeepAliveTimeout": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "timeout": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "maxSockets": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "maxFreeSockets": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\mycode\\jhtd\\jhtd.wx\\node_modules\\egg\\config\\config.default.js"
+}
